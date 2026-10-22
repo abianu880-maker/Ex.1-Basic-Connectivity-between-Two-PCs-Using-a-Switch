@@ -1,5 +1,5 @@
 ## Ex. No 1. 	Basic Connectivity between Two PCs Using a Switch
-# Date : 		
+# Date : 	22.10.2026	
 
 # Objective
 
@@ -39,6 +39,14 @@ For Router Configuration (CLI):<br>
 
 ________________________________________
 # Output (Screenshots / Ping Results)
+<img width="1920" height="1080" alt="Screenshot (590)" src="https://github.com/user-attachments/assets/9c280a7f-31d4-4954-804b-6dc76c41a044" />
+
+<img width="1920" height="1080" alt="Screenshot (586)" src="https://github.com/user-attachments/assets/ee2aa9cf-b971-448d-a7dc-2ca048a142cb" />
+<img width="1920" height="1080" alt="Screenshot (585)" src="https://github.com/user-attachments/assets/06789fce-871d-4256-ab1f-cabda306b4e3" />
+<img width="1920" height="1080" alt="Screenshot (584)" src="https://github.com/user-attachments/assets/d97e87fb-9e28-4c30-a055-6d4d2e4738ae" />
+<img width="1920" height="1080" alt="Screenshot (587)" src="https://github.com/user-attachments/assets/05e5c52c-83f7-4788-9c09-f30177adaaaa" />
+<img width="1920" height="1080" alt="Screenshot (587)" src="https://github.com/user-attachments/assets/f32e6128-be35-423b-92be-acd9b8f1a530" />
+<img width="1920" height="1080" alt="Screenshot (589)" src="https://github.com/user-attachments/assets/22b85972-94c8-4b37-8a3b-61ae002cfc20" />
 
 Insert screenshots showing ping success, configuration, or simulation results.
 ________________________________________
